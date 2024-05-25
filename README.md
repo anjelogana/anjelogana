@@ -1,7 +1,6 @@
 ### Hi, I'm Anjelo!
 
 📚 Computer Engineering Student at Toronto Metropolitan University  
-💻 Interested In Verilog, SystemVerilog, RISC-V, ARM Anything Low Level  
 💻 Interested In Verilog, SystemVerilog
 🤙 [LinkedIn](https://www.linkedin.com/in/anjelogana)  
 ```
