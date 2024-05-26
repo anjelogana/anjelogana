@@ -3,6 +3,7 @@
 📚 Computer Engineering Student at Toronto Metropolitan University  
 💻 Interested In Verilog, SystemVerilog
 🤙 [LinkedIn](https://www.linkedin.com/in/anjelogana)  
+
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀___________                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣀⣤⠖⠛⠉⠉⠛⠀⠀⠀⠸⠉⠛⠢⣄⠀⠀\_   _____/_______   _____           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
