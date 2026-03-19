@@ -1,20 +1,22 @@
-```
-            ┌──┐ ┌──┐ ┌──┐ ┌──┐ ┌──┐ ┌──┐
-            │  │ │  │ │  │ │  │ │  │ │  │
-      ┌─────┴──┴─┴──┴─┴──┴─┴──┴─┴──┴─┴──┴─────┐
- ┌──┐ │                                       │ ┌──┐    anjelo @ amd
- │  ├─┤                                       ├─┤  │    ─────────────────────────────────
- └──┘ │                                       │ └──┘    Role     Design Verification + AI @ AMD
- ┌──┐ │            ___   __  ______           │ ┌──┐    Prev     RTL Design @ AMD, Warehouse @ Toromont CAT
- │  ├─┤           / _ | /  |/  / _ \          ├─┤  │    School   TMU · Computer Engineering
- └──┘ │          / __ |/ /|_/ / // /          │ └──┘    
- ┌──┐ │         /_/ |_/_/  /_/____/           │ ┌──┐    HDL      Verilog · SystemVerilog · VHDL
- │  ├─┤                                       ├─┤  │    Lang     Python · Java · C
- └──┘ │                                       │ └──┘    Tools    Verdi · Vivado · Xillinx ISE · Quartus
- ┌──┐ │                                       │ ┌──┐
- │  ├─┤                                       ├─┤  │    Links    linkedin.com/in/anjelogana
- └──┘ │                                       │ └──┘             github.com/anjelogana
-      └─────┬──┬─┬──┬─┬──┬─┬──┬─┬──┬─┬──┬─────┘
-            │  │ │  │ │  │ │  │ │  │ │  │
-            └──┘ └──┘ └──┘ └──┘ └──┘ └──┘
+```ansi
+[97m         ┌──┐ ┌──┐ ┌──┐ ┌──┐ ┌──┐ ┌──┐        [0m
+[97m         │  │ │  │ │  │ │  │ │  │ │  │        [0m
+[97m  ┌──────┴──┴─┴──┴─┴──┴─┴──┴─┴──┴─┴──┴─────┐  [0m
+[97m  │                                        │  [0m  anjelo @ amd
+[97m┌─┤                                        ├─┐[0m  ─────────────────────────────────────
+[97m│ │                                        │ │[0m  Role     ???
+[97m└─┤                                        ├─┘[0m  Prev     RTL Design @ AMD · Warehouse @ Toromont CAT
+[97m┌─┤             ___   __  ______           ├─┐[0m  School   TMU · Computer Engineering
+[97m│ │            / _ | /  |/  / _ \          │ │[0m
+[97m└─┤           / __ |/ /|_/ / // /          ├─┘[0m  HDL      Verilog · SystemVerilog · VHDL
+[97m┌─┤          /_/ |_/_/  /_/____/           ├─┐[0m  Lang     Python · Java · C
+[97m│ │                                        │ │[0m  Tools    Verdi · Vivado · Xilinx ISE · Quartus
+[97m└─┤                                        ├─┘[0m
+[97m┌─┤                                        ├─┐[0m  Links    linkedin.com/in/anjelogana
+[97m│ │                                        │ │[0m           github.com/anjelogana
+[97m└─┤                                        ├─┘[0m
+[97m  │                                        │  [0m
+[97m  └──────┬──┬─┬──┬─┬──┬─┬──┬─┬──┬─┬──┬─────┘  [0m
+[97m         │  │ │  │ │  │ │  │ │  │ │  │        [0m
+[97m         └──┘ └──┘ └──┘ └──┘ └──┘ └──┘        [0m
 ```
